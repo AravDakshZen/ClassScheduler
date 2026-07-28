@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/AravDakshZen/ClassScheduler/blob/main/public/banner.png" alt="ClassScheduler Banner" width="100%" />
+  
+![ClassScheduler Banner](public/banner.png)
 
 # ClassScheduler
 
