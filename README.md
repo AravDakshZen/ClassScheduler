@@ -44,7 +44,7 @@ ClassScheduler gives you a structured, visual, and shareable interface to plan s
 
 | Layer | Technology |
 |---|---|
-| Frontend | Next.js 14 (App Router) |
+| Frontend | Next.js 14, Typescript (App Router) |
 | Backend | Next.js API Routes / Server Actions |
 | Database | Supabase (PostgreSQL) |
 | Auth | Supabase Auth |
@@ -105,8 +105,8 @@ Or apply them manually via the Supabase SQL editor in your project dashboard.
 
 ## How It Works
 
-1. **Create an account** and set up your department or class group
-2. **Add subjects** — name, code, instructor, and credit hours
+1. **Create an account** and set up your profile
+2. **Add subjects** — name, subject code, room no., instructor, and credit hours
 3. **Build your timetable** — assign subjects to time slots and rooms
 4. **Invite others** — share your schedule via link
 5. **Stay in sync** — any update is reflected in real time for all viewers
@@ -131,14 +131,8 @@ git push origin feature/your-feature-name
 
 ---
 
-## License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
-
 <div align="center">
 
-Built by [Aravindakshan](https://github.com/AravDakshZen)
+Built with 🤍 for students and instiutions by [Aravindakshan](https://github.com/AravDakshZen)
 
 </div>
