@@ -1,6 +1,4 @@
 <div align="center">
-  
-![ClassScheduler Banner](public/banner.png)
 
 # ClassScheduler
 
